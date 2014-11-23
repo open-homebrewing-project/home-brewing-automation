@@ -18,9 +18,9 @@ The grand vision is a completely automated how brewing setup. Just add grains, h
 
 1. Precise control of tempature throughout the process.
 1. Automated cleaning cycle.
-1. Built from off the shelf parts when possible.
+1. Built from off the shelf parts when possible
 1. Near realtime measurement of key parameters (temp, gravity) throughout the fermentation process.
-1. From grains, hops, and yeast to beer (all you need to care about is adding the grains and yeast. Everthing else is automated until the beer is feremented and read to keg or bottle.
+1. From grains, hops, and yeast to beer (all you need to care about is adding the grains, hope, and yeast. Everthing else is automated until the beer is feremented and read to keg or bottle.
 
 ## The High Level Break Down Of The Brewing Process
 
