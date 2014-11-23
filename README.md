@@ -10,7 +10,7 @@ This project draws inspiration from other DYI OpenSource projects such as...
 
 ## What is Open Source Home Brewing Automation?
 
-Home brewing is fun, but it's alot of work. My brew sessions are between 4 to 8 hours includeing clean up. A good amount of that time is spend just waiting for your wart to hit the right tempature or just waiting for things to cool down. Woudn't it be nice to automate some of these processess, or how about all of them?
+Home brewing is fun, but it's alot of work. My brew sessions are between 4 to 8 hours includeing clean up. A good amount of that time is spend just waiting for your wort to hit the right tempature or just waiting for things to cool down. Woudn't it be nice to automate some of these processess, or how about all of them?
 
 ## The Ultimate Goal
 
@@ -29,5 +29,11 @@ The grand vision is a completely automated how brewing setup. Just add grains, h
 3. Sparge grains for time.
 4. Bring wort to boil and boil for time.
 5. While boiling add hops at defined schedule.
-6. Cool wort down 
-
+6. Cool wort down.
+7. Move to fermenation tank.
+8. Add yeast.
+9. Wait...
+10. Move to secondary fermenation tank.
+11. Add other flavoring.
+12. Wait...
+13. Move to bottles or keg.
