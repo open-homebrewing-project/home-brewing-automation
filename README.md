@@ -1,4 +1,4 @@
-Open Home Brewing Automation
+Open Source Home Brewing Automation Project
 =======================
 
 The goal of this project is to define plans for an completely automated home brewing system.
@@ -22,6 +22,8 @@ The grand vision is a completely automated how brewing setup. Just add grains, h
 1. Built from off the shelf parts when possible
 1. Near realtime measurement of key parameters (temp, gravity) throughout the fermentation process.
 1. From grains, hops, and yeast to beer (all you need to care about is adding the grains, hope, and yeast. Everthing else is automated until the beer is feremented and read to keg or bottle.
+1. Granular control of fermentation tempature throughout the fermentation process.
+1. Closed loop as possible to reduce chance of contamination. 
 
 ## The High Level Break Down Of The Brewing Process
 
@@ -38,3 +40,12 @@ The grand vision is a completely automated how brewing setup. Just add grains, h
 11. Add other flavoring.
 12. Wait...
 13. Move to bottles or keg.
+
+## Related Projects and Articles
+
+- [BrewPI](http://www.brewpi.com/)
+- [Arduino & Home Brewing](http://makezine.com/2014/03/28/homebrewing-and-arduino-the-perfect-recipe/)
+- [Controller Discussion on Arduino Forum](http://forum.arduino.cc/index.php?topic=189995.0)
+- [Brewbot](http://www.brewbot.ca/index.html)
+- [Picobrew Zymatic](http://picobrew.com/Shop/productdetails.cshtml/0)
+- [Very Similar Reddit Thread](http://www.reddit.com/r/Homebrewing/comments/1rlxr0/designing_an_automated_brewery/)
