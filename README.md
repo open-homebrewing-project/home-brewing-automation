@@ -7,6 +7,7 @@ This project draws inspiration from other DYI OpenSource projects such as...
 
 - [Open Window Framing](https://github.com/luke0x/open-window-farming)
 - [OpenSource Ecology](https://github.com/OSE)
+- [Bartendro](https://github.com/partyrobotics/bartendro)
 
 ## What is Open Source Home Brewing Automation?
 
