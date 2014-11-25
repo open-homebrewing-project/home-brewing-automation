@@ -20,7 +20,8 @@ The grand vision is a completely automated how brewing setup. Just add grains, h
 
 1. Precise control of tempature throughout the process.
 1. Automated cleaning cycle.
-1. Built from off the shelf parts when possible
+1. Built from off the shelf parts when possible.
+1. Keep cost low. Automated home brewing systems exist, however they are very expenstive. This system should be a fraction of the cost, but deliver much greater control and features.
 1. Near realtime measurement of key parameters (temp, gravity) throughout the fermentation process.
 1. From grains, hops, and yeast to beer (all you need to care about is adding the grains, hope, and yeast. Everthing else is automated until the beer is feremented and read to keg or bottle.
 1. Granular control of fermentation tempature throughout the fermentation process.
