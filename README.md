@@ -16,7 +16,7 @@ Home brewing is fun, but it's alot of work. My brew sessions are between 4 to 8 
 
 ## The Ultimate Goal
 
-The grand vision is a completely automated how brewing setup. Just add grains, hops, and yeast, wait for a couple of weeks and you have beer. The features of grand vision system.
+The grand vision is a completely automated how brewing setup. Just add grains, hops, and yeast, wait for a couple of weeks and you have beer. The grand vision system.
 
 1. Precise control of tempature throughout the process.
 1. Automated cleaning cycle.
