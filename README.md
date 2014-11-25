@@ -5,6 +5,7 @@ The goal of this project is to define plans for an completely automated home bre
 
 This project draws inspiration from other DYI OpenSource projects such as...
 
+- [Open Compute Project](http://www.opencompute.org/)
 - [Open Window Framing](https://github.com/luke0x/open-window-farming)
 - [OpenSource Ecology](https://github.com/OSE)
 - [Bartendro](https://github.com/partyrobotics/bartendro)
