@@ -50,3 +50,4 @@ The grand vision is a completely automated how brewing setup. Just add grains, h
 - [Brewbot](http://www.brewbot.ca/index.html)
 - [Picobrew Zymatic](http://picobrew.com/Shop/productdetails.cshtml/0)
 - [Very Similar Reddit Thread](http://www.reddit.com/r/Homebrewing/comments/1rlxr0/designing_an_automated_brewery/)
+- [BrewBot](http://www.brewbot.io/)
