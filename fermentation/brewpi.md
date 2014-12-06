@@ -27,4 +27,4 @@ The BrewPi as listed below is no longer available. It appears that they have a n
 
 I have used the schematic below that was provided by 100Amps on Homebrewtalk.com. 
 
-![](https://github.com/open-homebrewing-project/home-brewing-automation/images/brewpi-wiring-schematic.gif) 
+![](https://github.com/open-homebrewing-project/home-brewing-automation/blob/feature/fermentation/images/brewpi-wiring-schematic.gif) 
